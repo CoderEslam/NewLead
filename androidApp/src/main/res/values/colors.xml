@@ -5,4 +5,8 @@
     <color name="colorAccent">#03DAC5</color>
     <color name="black">#000</color>
     <color name="blue">#191B3B</color>
+    <color name="green">#2C9991</color>
+    <color name="alpha_white">#59FFFFFF</color>
+    <color name="white">#fff</color>
+
 </resources>
