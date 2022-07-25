@@ -55,6 +55,7 @@
 
     <TextView
         android:id="@+id/course_title"
+        style="@style/textStyle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
@@ -69,6 +70,7 @@
 
     <TextView
         android:id="@+id/course_discription"
+        style="@style/textStyle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="come to develop your words and your mindset "
@@ -91,6 +93,7 @@
 
     <TextView
         android:id="@+id/textView3"
+        style="@style/textStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -103,6 +106,7 @@
 
     <TextView
         android:id="@+id/course_duration"
+        style="@style/textStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="5dp"
@@ -138,6 +142,7 @@
 
         <TextView
             android:id="@+id/total_star"
+            style="@style/textStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"

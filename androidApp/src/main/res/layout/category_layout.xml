@@ -7,13 +7,12 @@
 
     <TextView
         android:id="@+id/selectCategoryTv"
+        style="@style/textStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:background="@drawable/blue_frame"
         android:text="@string/eslamghazy"
-        android:textAllCaps="false"
-        android:textColor="@color/blue"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
